@@ -1,11 +1,12 @@
-# README 01 — Setup • Structure • Basic UI
+# Tic Tac Toe# 
+## #1 -Setup • Structure • Basic UI
 
 ---
 
 <details>
 <summary><h1> 🧱 Step 1 — Setup Files</h1></summary>
 
-Create these file in to your **project folder**:
+Create these file in to your **File folder**:
 
 ```
 index.html
@@ -238,3 +239,4 @@ cells.forEach(cell => {
 ---
 
 </details>
+
